@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Project/End-to-End-Lung-Cancer-Classification-using-MLFlow-DVC/.venv/mlruns/0/63d73a4030d241b6a6d8e61903497c46/artifacts
+end_time: 1715265171482
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63d73a4030d241b6a6d8e61903497c46
+run_name: popular-moth-25
+run_uuid: 63d73a4030d241b6a6d8e61903497c46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715265148899
+status: 3
+tags: []
+user_id: abike
